@@ -7,7 +7,7 @@ assistant_id = "asst_u6Y31LBDpGM9yr4cHR6C0CuK"
 
 def main():
 
-    st.image("/Users/vincentrost/Desktop/logo.png", caption="Linkedin: linkedin.com/in/vincent-julian-rost | Datenschutz: https://github.com/vinro04/Ai-consultant/tree/main", use_column_width=True)
+    st.image("logo.png", caption="Linkedin: linkedin.com/in/vincent-julian-rost | Datenschutz: https://github.com/vinro04/Ai-consultant/tree/main", use_column_width=True)
     st.title("Virtueller AI Consultant")
     st.text("Mit dieser App kannst du individuelle KI Strategien entwickeln lassen und neue Tools\nfür deinen Anwendungsbereich finden! Beschreibe einfach dein Problem in der Textbox\nund erhalte Vorschläge wie sich deine Arbeit erleichtern lässt.")
 
