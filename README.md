@@ -12,7 +12,7 @@ vincentjulian.rost@gmail.com
 Erhebung und Verarbeitung von Daten
 Nutzungsdaten
 
-Bei der Nutzung unserer Web-App werden keine persönlichen Daten von Ihnen gespeichert. Es werden lediglich die von Ihnen eingegebenen Texte zur Verarbeitung an das AI-Modell ChatGPT weitergegeben. Diese Texte werden nur für die Dauer der Verarbeitung verwendet und danach sofort gelöscht.
+Bei der Nutzung unserer Web-App werden keine persönlichen Daten von Ihnen gespeichert. Es werden lediglich die von Ihnen eingegebenen Texte zur Verarbeitung an das AI-Modell ChatGPT weitergegeben. 
 
 Weitergabe von Daten
 
